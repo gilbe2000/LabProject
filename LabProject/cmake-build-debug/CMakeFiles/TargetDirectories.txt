@@ -1,0 +1,6 @@
+/home/alberto/CLionProjects/LabProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alberto/CLionProjects/LabProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alberto/CLionProjects/LabProject/cmake-build-debug/CMakeFiles/core.dir
+/home/alberto/CLionProjects/LabProject/cmake-build-debug/CMakeFiles/LabProject.dir
+/home/alberto/CLionProjects/LabProject/cmake-build-debug/CMakeFiles/core_autogen.dir
+/home/alberto/CLionProjects/LabProject/cmake-build-debug/CMakeFiles/LabProject_autogen.dir
