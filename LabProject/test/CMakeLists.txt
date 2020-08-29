@@ -1,0 +1,5 @@
+find_package(GTest REQUIRED)
+include_directories(${GTEST_INCLUDE_DIRS})
+set(SOURCE_FILES runAllTests.cpp TestFile.cpp TestLoadFile.cpp TestObserver.cpp)
+add_executable(runAllTests ${SOURCE_FILES} runAllTests.cpp)
+target_link_libraries(runAllTests ${GTEST_BOTH_LIBRERIES}core)
